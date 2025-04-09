@@ -139,13 +139,13 @@ let comparacion = num1 != num2;
 console.log(comparacion); //Realiza la operación de comparación que consideres para que el resultado en consola sea true
 
 //Ejercicio 12: completa el ejercicio
-/*
-let num3 = 1
-let num3AsString = "1"
 
-let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
-console.log(result) 
-*/
+let num3 = 1;
+let num3AsString = "1";
+
+let result = typeof num3 == typeof num3AsString;
+//Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
+console.log(result);
 
 //Ejercicio 13: completa el ejercicio
 /*
