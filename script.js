@@ -118,10 +118,10 @@ console.log(`La divion de 8 entre 4 es igual a ${division}`);
 //Escribe tu código aquí
 const primerNumero = 1;
 const segundoNumero = 2;
-const comparacion = primerNumero == segundoNumero;
+const comparacionFalse = primerNumero == segundoNumero;
 
 console.log(
-  `El resultado de la comparacion de los numeros es: ${comparacion}.`
+  `El resultado de la comparacion de los numeros es: ${comparacionFalse}.`
 );
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 //Escribe tu código aquí
@@ -131,13 +131,12 @@ console.log(
   `El resultado de la comparacion de los numeros es: ${comparacionTrue}.`
 );
 //Ejercicio 11: completa el ejercicio
-/*
-let num1 = 15
-let num2 = 20
 
-let comparacion = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
-console.log(comparacion)
-*/
+let num1 = 15;
+let num2 = 20;
+
+let comparacion = num1 != num2;
+console.log(comparacion); //Realiza la operación de comparación que consideres para que el resultado en consola sea true
 
 //Ejercicio 12: completa el ejercicio
 /*
