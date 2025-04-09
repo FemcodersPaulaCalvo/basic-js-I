@@ -85,8 +85,9 @@ const coder = {
 console.log(`Me llamo ${coder.nombre} y tengo ${coder.edad} años.`);
 
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
-
 //Escribe tu código aquí
+
+console.log(coder.nombre + ", " + coder.edad + ".");
 
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
