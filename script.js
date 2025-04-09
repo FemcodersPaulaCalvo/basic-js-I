@@ -51,6 +51,7 @@ console.log(
     object.nombre +
     " " +
     array +
+    " " +
     array[0] +
     " " +
     array[1] +
@@ -66,6 +67,12 @@ console.log(
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola.
 
 //Escribe tu código aquí
+
+const postres = ["helado", "tarta", "pastel"];
+
+console.log(
+  `Me gusta el ${postres[0]}, pero tambien la ${postres[1]} y el ${postres[2]}.`
+);
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 
