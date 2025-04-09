@@ -108,8 +108,10 @@ const multiplicacion = 2 * 4;
 console.log(`La multiplicacion de 2 por 4 es igual a ${multiplicacion}`);
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
-
 //Escribe tu código aquí
+const division = 8 / 4;
+
+console.log(`La divion de 8 entre 4 es igual a ${division}`);
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
