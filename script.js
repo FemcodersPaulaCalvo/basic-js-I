@@ -156,9 +156,9 @@ let result2 = //Realiza la operación de comparación que consideres con las dos
 //Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
 //Escribe tu código aquí
 
-const name = "Paula";
+const firstName = "Paula";
 const lastName = "Calvo";
-const fullName = name + " " + lastName;
+const fullName = firstName + " " + lastName;
 console.log(fullName);
 
 //OPERADORES DE LÓGICA
