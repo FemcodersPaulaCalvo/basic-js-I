@@ -115,9 +115,14 @@ console.log(`La divion de 8 entre 4 es igual a ${division}`);
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
-
 //Escribe tu código aquí
+const primerNumero = 1;
+const segundoNumero = 2;
+const comparacion = primerNumero == segundoNumero;
 
+console.log(
+  `El resultado de la comparacion de los numeros es: ${comparacion}.`
+);
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
