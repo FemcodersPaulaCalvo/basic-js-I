@@ -124,9 +124,12 @@ console.log(
   `El resultado de la comparacion de los numeros es: ${comparacion}.`
 );
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
-
 //Escribe tu código aquí
+const comparacionTrue = primerNumero != segundoNumero;
 
+console.log(
+  `El resultado de la comparacion de los numeros es: ${comparacionTrue}.`
+);
 //Ejercicio 11: completa el ejercicio
 /*
 let num1 = 15
