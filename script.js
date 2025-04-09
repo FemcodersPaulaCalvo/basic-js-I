@@ -8,14 +8,60 @@ console.log("Hola soy tu consola y juntas vamos a aprender Javascript");
 
 //Ejercicio 1: Imprime en la consola "Bienvenida/o al bootcamp Femcoders de Factoría F5" y mira en tu navegador si sale el resultado.
 
-console.log("Bienvenida/o al bootcamp Femcoders de Factoría F5");
-
 //Escribe tu código aquí
+
+console.log("Bienvenida/o al bootcamp Femcoders de Factoría F5");
 
 //VARIABLES Y TIPOS DE DATOS
 //Ejercicio 2: Crea una variable por los siguientes tipos de dato: string, number, boolean, null, undefined, object, array e imprímelos en la consola.
 
 //Escribe tu código aquí
+
+const string = "Hola caracola";
+const number = 9801;
+const boolean = true;
+const nulo = null;
+const indefinido = undefined;
+const object = {
+  nombre: "Paula",
+  apellido: "Calvo",
+  edad: 23,
+};
+const array = [
+  "Hola caracola",
+  9801,
+  true,
+  nulo,
+  indefinido,
+  object.apellido,
+  object.edad,
+];
+
+console.log(
+  string +
+    " " +
+    number +
+    " " +
+    boolean +
+    " " +
+    nulo +
+    " " +
+    indefinido +
+    " " +
+    object.nombre +
+    " " +
+    array +
+    array[0] +
+    " " +
+    array[1] +
+    " " +
+    array[2] +
+    " " +
+    array[3] +
+    " " +
+    array[4] +
+    " ."
+);
 
 //Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola.
 
