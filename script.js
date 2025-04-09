@@ -102,8 +102,10 @@ const resta = 2 - 4;
 console.log(`La resta de 2 menos 4 es igual a ${resta}`);
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
-
 //Escribe tu código aquí
+const multiplicacion = 2 * 4;
+
+console.log(`La multiplicacion de 2 por 4 es igual a ${multiplicacion}`);
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
