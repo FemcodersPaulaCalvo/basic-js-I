@@ -148,10 +148,9 @@ let result = typeof num3 == typeof num3AsString;
 console.log(result);
 
 //Ejercicio 13: completa el ejercicio
-/*
+
 let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
-console.log(result2)
-*/
+  console.log(num3 == num3AsString);
 
 //OPERADORES DE CADENAS
 //Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
