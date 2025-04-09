@@ -154,8 +154,12 @@ let result2 = //Realiza la operación de comparación que consideres con las dos
 
 //OPERADORES DE CADENAS
 //Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
-
 //Escribe tu código aquí
+
+const name = "Paula";
+const lastName = "Calvo";
+const fullName = name + " " + lastName;
+console.log(fullName);
 
 //OPERADORES DE LÓGICA
 //Ejercicio 15: Descomenta todo el bloque desde la variable 'a' hasta el 'console.log(res6)' y completa el ejercicio. (Saldrá un error y no podrás visualizar el resultado hasta que termines este ejercicio)
