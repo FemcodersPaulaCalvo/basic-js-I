@@ -2,89 +2,58 @@
 
 //En el archivo index.html que tienes abierto en el navegador (preferiblemente chrome o firefox) vamos a trabajar con la consola, abre tu inspector y en la pestaña de consola, mira si puedes ver el mensaje escrito abajo.
 
-console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
+console.log("Hola soy tu consola y juntas vamos a aprender Javascript");
 
 //Si has encontrado el mensaje puedes continuar con los ejercicios
 
 //Ejercicio 1: Imprime en la consola "Bienvenida/o al bootcamp Femcoders de Factoría F5" y mira en tu navegador si sale el resultado.
 
+console.log("Bienvenida/o al bootcamp Femcoders de Factoría F5");
+
 //Escribe tu código aquí
-
-
-
 
 //VARIABLES Y TIPOS DE DATOS
 //Ejercicio 2: Crea una variable por los siguientes tipos de dato: string, number, boolean, null, undefined, object, array e imprímelos en la consola.
 
 //Escribe tu código aquí
 
-
-
-
-//Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
+//Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola.
 
 //Escribe tu código aquí
-
-
-
 
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 
 //Escribe tu código aquí
 
-
-
-
 //Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
 //Escribe tu código aquí
-
-
-
 
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
-
-
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
-
-
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
-
-
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
-
-
-
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
 
 //Escribe tu código aquí
 
-
-
-
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
-
-
-
 
 //Ejercicio 11: completa el ejercicio
 /*
@@ -110,15 +79,10 @@ let result2 = //Realiza la operación de comparación que consideres con las dos
 console.log(result2)
 */
 
-
 //OPERADORES DE CADENAS
 //Ejercicio 14: Crea una variable con tu nombre y otra variable con tu apellido y crea otra nueva variable con tu nombre completo concatenando las dos variables anteriores e imprime en consola. Debe haber un espacio entre tu nombre y apellido.
 
 //Escribe tu código aquí
-
-
-
-
 
 //OPERADORES DE LÓGICA
 //Ejercicio 15: Descomenta todo el bloque desde la variable 'a' hasta el 'console.log(res6)' y completa el ejercicio. (Saldrá un error y no podrás visualizar el resultado hasta que termines este ejercicio)
