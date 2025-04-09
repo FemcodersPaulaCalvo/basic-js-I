@@ -96,8 +96,10 @@ const suma = 2 + 2;
 
 console.log(`La suma de 2 mas 2 es igual a ${suma}`);
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
-
 //Escribe tu código aquí
+const resta = 2 - 4;
+
+console.log(`La resta de 2 menos 4 es igual a ${resta}`);
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
