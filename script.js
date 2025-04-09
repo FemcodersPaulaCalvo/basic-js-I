@@ -91,9 +91,10 @@ console.log(coder.nombre + ", " + coder.edad + ".");
 
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
-
 //Escribe tu código aquí
+const suma = 2 + 2;
 
+console.log(`La suma de 2 mas 2 es igual a ${suma}`);
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
